@@ -80,7 +80,7 @@ The extension should now be installed and active.
 
 1.  Navigate to code.pybricks.com.
 2.  You will see a new "Save all files" button with a cloud download icon next to the "Archive project" button.
-![Pybricks Screenshot](path/to/image.jpg "Optional Title")
+![Pybricks Screenshot](docs/pybricks-screenshot.png "Pybricks Screenshot")
 3.  Click the "Save all files" button.
 4.  A directory picker dialog will appear. Choose a directory where you want to save your files.
 5.  After selecting a directory, all your open files in the Pybricks editor will be saved as individual `.py` files in that location.
