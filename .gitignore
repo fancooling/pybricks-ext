@@ -1,0 +1,16 @@
+.DS_Store
+dist/*
+node_modules/*
+.env
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/*
+*.iml
+out/*
+coverage/*
+npm-debug.log*
+yarn-error.log*
+lerna-debug.log*
